@@ -193,7 +193,8 @@ header{
 	
 }
 	.global-nav li{
-		font-size: 3vw;
+		padding-top: 5%;
+		font-size: 4vw;
 		float: right;
 	}
 
@@ -209,6 +210,8 @@ header{
 		max-width: 100%;
 		height: 150%;
 		/* width:368px; */
+	background-color:RGB(55,190,240,0.8);
+
 	}
 
 	.greybox{
